@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/ALU.vhd" \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/Debouncer.vhd" \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/DemultiplexorCargaRegistro.vhd" \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/Display_Controller.vhd" \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/FFD.vhd" \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/FullAdder.vhd" \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/MultiplexorSeleccionRegistro.vhd" \
+"../../../../project_1_ff.srcs/sources_1/new/RegisterFile.vhd" \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/Registro16.vhd" \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/RegistroPC.vhd" \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/RegistroStatus.vhd" \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/Resta16bits.vhd" \
+"../../../../../Proyecto Base/Proyecto Base.srcs/sources_1/new/Sumador16bits.vhd" \
+"../../../../project_1_ff.srcs/sources_1/new/Basys3.vhd" \
+
+# Do not sort compile order
+nosort

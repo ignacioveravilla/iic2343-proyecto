@@ -1,0 +1,18 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/ALU.vhd,1743817069,vhdl,,,,alu,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/Debouncer.vhd,1743794233,vhdl,,,,debouncer,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/DemultiplexorCargaRegistro.vhd,1743795845,vhdl,,,,demultiplexorcargaregistro,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/Display_Controller.vhd,1743822755,vhdl,,,,display_controller,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/FFD.vhd,1743801774,vhdl,,,,ffd,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/FullAdder.vhd,1743798918,vhdl,,,,fulladder,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/MultiplexorSeleccionRegistro.vhd,1743795769,vhdl,,,,multiplexorseleccionregistro,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/Registro16.vhd,1743795714,vhdl,,,,registro16,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/RegistroPC.vhd,1743801380,vhdl,,,,registropc,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/RegistroStatus.vhd,1743801579,vhdl,,,,registrostatus,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/Resta16bits.vhd,1743799361,vhdl,,,,resta16bits,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/Proyecto Base/Proyecto Base.srcs/sources_1/new/Sumador16bits.vhd,1743798974,vhdl,,,,sumador16bits,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/project_1_ff/project_1_ff.srcs/sources_1/new/Basys3.vhd,1743819711,vhdl,,,,basys3,,,,,,,,
+C:/Users/ignacio/Desktop/proyecto-grupo34-main/proyecto-grupo34-main/project_1_ff/project_1_ff.srcs/sources_1/new/RegisterFile.vhd,1743822361,vhdl,,,,registerfile,,,,,,,,
